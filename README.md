@@ -30,7 +30,7 @@ Welcome! I'm a mathematics teacher with a passion for data analytics and educati
 
 ## ✍️ Author
 
-**[Your Full Name]**  
+**Anas Bellaouali**  
 Math Teacher & Aspiring Data Analyst  
 [www.linkedin.com/in/anas-bellaouali] – [bellaoualai.anas@gmail.com] 
 
