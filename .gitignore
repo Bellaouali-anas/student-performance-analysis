@@ -3,6 +3,7 @@ venv/
 **/Lib/
 **/Scripts/
 **/bin/
+**/share/
 **/pyvenv.cfg
 
 # Byte-compiled / cache files
