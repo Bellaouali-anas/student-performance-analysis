@@ -1,0 +1,44 @@
+# Ignore virtual environment and its contents
+venv/
+**/Lib/
+**/Scripts/
+**/bin/
+**/pyvenv.cfg
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# Python egg and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter runtime
+*.nbconvert.ipynb
+
+# Data files (optional)
+data/raw/
