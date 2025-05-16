@@ -24,9 +24,6 @@ Welcome! I'm a mathematics teacher with a passion for data analytics and educati
 - PDF reporting (e.g., Jupyter, Word or LaTeX)
 - Git & GitHub
 
-## 📈 Example Visual
-
-![Score Distribution](visuals/score_distributions.png)
 
 ## ✍️ Author
 
