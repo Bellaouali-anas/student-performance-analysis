@@ -9,13 +9,23 @@ Welcome! I'm a mathematics teacher with a passion for data analytics and educati
 - Visualize the data using charts and dashboards.
 - Demonstrate skills in data cleaning, exploratory analysis, and reporting.
 
+## 📈 Visual Examples
+### 🧍‍♂️ Student Attendance Count by Class
+![Attendance Count](visuals/absent_count.png)
+
+### 📊 Average Score Comparison Across Classes
+![Average Score Comparison](visuals/average_comp.png)
+
+### 📉 Distribution of Student Scores
+![Score Distribution](visuals/scores_dist.png)
+
+These visuals offer actionable insights for classroom-level decision-making.
+
 ## 🗂️ Structure
 
 - `data/`: Raw and cleaned datasets.
 - `notebooks/`: Jupyter notebooks for data exploration and visualization.
-- `scripts/`: Python scripts for reusable code.
 - `visuals/`: Graphs and figures generated from analysis.
-- `reports/`: Summary reports in PDF format.
 
 ## 🛠️ Tools Used
 
@@ -24,10 +34,15 @@ Welcome! I'm a mathematics teacher with a passion for data analytics and educati
 - PDF reporting (e.g., Jupyter, Word or LaTeX)
 - Git & GitHub
 
+## 🙌 Contribute / Follow
 
-## ✍️ Author
+This is an open toolkit for math teachers who want to bring data into their teaching practice. I’ll keep adding more tools—feel free to use them, give feedback, or suggest ideas!
 
-**Anas Bellaouali**  
-Math Teacher & Aspiring Data Analyst  
-[www.linkedin.com/in/anas-bellaouali] – [bellaoualai.anas@gmail.com] 
+📫 Feel free to contact me or follow for updates:
+
+- [GitHub Profile](https://github.com/yourusername)  
+- [LinkedIn](https://www.linkedin.com/in/anas-bellaouali)  
+- ✉️ bellaoualai.anas@gmail.com  
+
+---
 
